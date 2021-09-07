@@ -1,4 +1,4 @@
-# Loading Js
+<h1 align="center">🔋 Loading Js 🔋</h1>
 
 </p>
 <h1 align="center">
